@@ -321,12 +321,15 @@ header{
     width: 30%;
     float: left;
     margin: 15px 17px;
+    overflow: hidden;
     
 }
 
 .room-image img{
     width: 100%;
-    transition: 0.5s;
+    transition: 1s;
+    overflow: hidden;
+    
 }
 
 .room-image:hover img{
